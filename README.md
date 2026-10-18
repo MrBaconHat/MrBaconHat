@@ -2,7 +2,7 @@ Hey, I'm MrBaconHat 👋
 
 Self-taught Python developer building tools and bots! I'm always doing random side-quests.
 
-I enjoy exploring how software works, improving my code, and turning ideas into practical projects.
+I enjoy experimenting with FastAPI, discord.py, and sometimes synchronized projects.
 
 ### 🛠️ My Expertise
 
@@ -14,16 +14,17 @@ I enjoy exploring how software works, improving my code, and turning ideas into 
 
 🚀 Featured Project
 
-MPB — Multipurpose Bot
+MPB -- Multipurpose Bot
 
-A multipurpose Discord bot project focused on modular functionality, configuration, and maintainable code.
+A multipurpose Discord bot that I'm working on. Currently it's in its very early stage of development.
+- I plan on making it scalable, configurable and reliable.
 
 Explore MPB → (https://github.com/MrBaconHat/mpb)
 
 🌱 Currently
 
 - Improving my Python development skills
-- Exploring database design(SQL) and backend development
+- Learning SQL database design and backend development(ecosystem and OOP)
 - Building projects and learning through them
 
 ---
