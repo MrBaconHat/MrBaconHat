@@ -1,6 +1,6 @@
 Hey, I'm MrBaconHat 👋
 
-Self-taught Python developer building tools and bots! I'm always doing random side-quests.
+Self-taught Python developer building tools and discord bots! I'm always doing random side-quests.
 
 I enjoy experimenting with FastAPI, discord.py, and sometimes synchronized projects.
 
@@ -12,16 +12,16 @@ I enjoy experimenting with FastAPI, discord.py, and sometimes synchronized proje
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-🚀 Featured Project
+### 🚀 Current Project
 
 MPB -- Multipurpose Bot
 
-A multipurpose Discord bot that I'm working on. Currently it's in its very early stage of development.
-- I plan on making it scalable, configurable and reliable.
+A multipurpose Discord bot that I'm working on, Currently in its very early stage of development.
+- my goal is to make it scalable, configurable and reliable.
 
-Explore MPB → (https://github.com/MrBaconHat/mpb)
+View MPB → (https://github.com/MrBaconHat/mpb)
 
-🌱 Currently
+### 🌱 Currently Doing
 
 - Improving my Python development skills
 - Learning SQL database design and backend development(ecosystem and OOP)
