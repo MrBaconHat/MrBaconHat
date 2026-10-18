@@ -4,7 +4,7 @@ Self-taught Python developer building tools and bots! I'm always doing random si
 
 I enjoy exploring how software works, improving my code, and turning ideas into practical projects.
 
-### 🛠️ Tech Stack
+### 🛠️ Expertise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
