@@ -1,4 +1,4 @@
-Hey, I'm MrBaconHat 👋
+Hey, I'm MrHat 👋
 
 Self-taught Python developer building tools and discord bots! I'm always doing random side-quests.
 
