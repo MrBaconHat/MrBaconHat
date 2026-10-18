@@ -1,6 +1,6 @@
 Hey, I'm MrBaconHat 👋
 
-Self-taught Python developer building tools and bots! I'm always doing side-quests.
+Self-taught Python developer building tools and bots! I'm always doing random side-quests.
 
 I enjoy exploring how software works, improving my code, and turning ideas into practical projects.
 
@@ -18,7 +18,7 @@ MPB — Multipurpose Bot
 
 A multipurpose Discord bot project focused on modular functionality, configuration, and maintainable code.
 
-"Explore MPB →" (https://github.com/MrBaconHat/mpb)
+Explore MPB → (https://github.com/MrBaconHat/mpb)
 
 🌱 Currently
 
