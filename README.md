@@ -24,11 +24,3 @@ A multipurpose Discord bot that I'm working on, Currently in its very early stag
 - my goal is to make it scalable, configurable and reliable.
 
 View MPB → (https://github.com/MrBaconHat/mpb)
-
----
-
-### 🌱 Currently Doing
-
-- Improving my Python development skills
-- Learning SQL database design and backend development(ecosystem and OOP)
-- Building projects and learning through them
