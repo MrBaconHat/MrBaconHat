@@ -2,7 +2,7 @@ Hey, I'm MrHat 👋
 
 Self-taught Python developer building tools and discord bots! I'm always doing random side-quests.
 
-I enjoy experimenting with FastAPI, discord.py, and sometimes synchronized projects.
+I enjoy experimenting with FastAPI, discord.py, and sometimes integrated applications that communicate with each other.
 
 ---
 
